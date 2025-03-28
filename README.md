@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>San Joaquin Valley Town Hall</title>
+    <link rel="stylesheet" href="styles/c5_main.css">
 <header>
     <img src="images/town_hall_logo.gif" alt="San Joaquin Valley Town Hall Logo" height="80">
     <h2>San Joaquin Valley Town Hall</h2>
@@ -37,3 +43,5 @@
 <footer>
     <p>&copy; Copyright Saber Hossain, 2025, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
 </footer>
+</body>
+</html>
