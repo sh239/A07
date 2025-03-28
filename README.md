@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>San Joaquin Valley Town Hall</title>
     <link rel="stylesheet" href="styles/c5_main.css">
+</head>
+<body>
 <header>
     <img src="images/town_hall_logo.gif" alt="San Joaquin Valley Town Hall Logo" height="80">
     <h2>San Joaquin Valley Town Hall</h2>
